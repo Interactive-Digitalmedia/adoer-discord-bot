@@ -1,0 +1,17 @@
+{
+  "name": "adoer-discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.52.1",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
